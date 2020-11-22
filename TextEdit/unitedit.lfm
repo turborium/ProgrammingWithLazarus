@@ -1,0 +1,65 @@
+object FormEdit: TFormEdit
+  Left = 548
+  Height = 278
+  Top = 263
+  Width = 345
+  Caption = 'Редактор текста'
+  ClientHeight = 278
+  ClientWidth = 345
+  Constraints.MinHeight = 200
+  Constraints.MinWidth = 300
+  LCLVersion = '2.0.10.0'
+  object Memo: TMemo
+    Left = 6
+    Height = 234
+    Top = 6
+    Width = 333
+    Align = alClient
+    BorderSpacing.Left = 6
+    BorderSpacing.Top = 6
+    BorderSpacing.Right = 6
+    Lines.Strings = (
+      'Memo'
+    )
+    TabOrder = 0
+  end
+  object PanelBottom: TPanel
+    Left = 0
+    Height = 38
+    Top = 240
+    Width = 345
+    Align = alBottom
+    AutoSize = True
+    BevelOuter = bvNone
+    BorderWidth = 6
+    ChildSizing.HorizontalSpacing = 4
+    ClientHeight = 38
+    ClientWidth = 345
+    TabOrder = 1
+    object ButtonOk: TButton
+      AnchorSideTop.Control = PanelBottom
+      AnchorSideTop.Side = asrCenter
+      AnchorSideRight.Control = PanelBottom
+      AnchorSideRight.Side = asrBottom
+      Left = 264
+      Height = 25
+      Top = 7
+      Width = 75
+      Anchors = [akTop, akRight]
+      Caption = 'OK'
+      TabOrder = 0
+    end
+    object ButtonCancel: TButton
+      AnchorSideTop.Control = PanelBottom
+      AnchorSideTop.Side = asrCenter
+      AnchorSideRight.Control = ButtonOk
+      Left = 184
+      Height = 25
+      Top = 7
+      Width = 76
+      Anchors = [akTop, akRight]
+      Caption = 'Отмена'
+      TabOrder = 1
+    end
+  end
+end
