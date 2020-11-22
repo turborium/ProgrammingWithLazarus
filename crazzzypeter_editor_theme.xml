@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus>
+    <ColorSchemes Version="12">
+      <Names Count="1">
+        <Item1 Value="Crazzzypeter_editor_theme"/>
+      </Names>
+      <Globals Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <ahaGutter Background="clBlack"/>
+          <ahaDefault Background="clBlack" Foreground="clWhite"/>
+          <ahaErrorLine Background="5284095" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaMouseLink Foreground="clAqua" FrameColor="clAqua" FrameEdges="sfeBottom" BackPriority="2500" ForePriority="1500" FramePriority="7500"/>
+          <ahaTextBlock Background="clMenuHighlight" BackPriority="7000" ForePriority="7000" FramePriority="7000" BackAlpha="120" FrameAlpha="158"/>
+          <ahaWordGroup FrameColor="clRed" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaFoldedCode Background="2039583" Foreground="clSilver" FrameColor="clSilver" BackPriority="8000" ForePriority="8000" FramePriority="8000"/>
+          <ahaLineNumber Foreground="16753828"/>
+          <ahaRightMargin Foreground="1447446"/>
+          <ahaTopInfoHint Background="clPurple" Foreground="clYellow" FrameColor="clOlive" FrameStyle="slsDashed" BackPriority="8500" ForePriority="8500" FramePriority="8500"/>
+          <ahaBracketMatch Style="fsBold" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaHighlightAll Background="clYellow" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
+          <ahaModifiedLine Foreground="clGreen" FrameColor="1410204"/>
+          <ahaHighlightWord Background="3158064" FrameColor="clSilver" BackPriority="3000" ForePriority="3000" FramePriority="3000"/>
+          <ahaLineHighlight BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaSyncroEditCur FrameColor="clFuchsia" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaExecutionPoint Background="clBlue" Foreground="clWhite" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaSyncroEditArea Background="clGray" BackPriority="2000" ForePriority="2000" FramePriority="2000"/>
+          <ahaSyncroEditSync FrameColor="clRed" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaCodeFoldingTree Foreground="9474192" FrameColor="clWhite"/>
+          <ahaGutterSeparator Foreground="3158064"/>
+          <ahaIfDefNodeActive BackPriority="9050" ForePriority="9050" FramePriority="9050"/>
+          <ahaSyncroEditOther FrameColor="9744532" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaTemplateEditCur FrameColor="clAqua" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaIdentComplWindow Background="1579032"/>
+          <ahaIfDefBlockActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
+          <ahaTemplateEditSync FrameColor="clFuchsia" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaEnabledBreakpoint Background="clRed" Foreground="clWhite" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaIfDefNodeInactive BackPriority="9150" ForePriority="9150" FramePriority="9150"/>
+          <ahaIncrementalSearch Background="3199088" Foreground="clWhite" BackPriority="4000" ForePriority="4000" FramePriority="4000"/>
+          <ahaInvalidBreakpoint Background="clOlive" Foreground="clGreen" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaTemplateEditOther FrameColor="clMaroon" BackPriority="6000" ForePriority="6000" FramePriority="6000"/>
+          <ahaUnknownBreakpoint Background="clRed" Foreground="clBlack" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaDisabledBreakpoint Background="clLime" Foreground="clRed" BackPriority="500" ForePriority="500" FramePriority="500"/>
+          <ahaIfDefBlockInactive Foreground="clBlack" BackPriority="9050" ForePriority="9050" FramePriority="9050" ForeAlpha="150"/>
+          <ahaIfDefNodeTmpActive BackPriority="9050" ForePriority="9050" FramePriority="9050"/>
+          <ahaOutlineLevel1Color MarkupFoldLineColor="clRed" MarkupFoldLineStyle="slsDashed" MarkupFoldLineAlpha="200"/>
+          <ahaOutlineLevel2Color MarkupFoldLineColor="39159" MarkupFoldLineStyle="slsDashed" MarkupFoldLineAlpha="200"/>
+          <ahaOutlineLevel3Color MarkupFoldLineColor="2280512" MarkupFoldLineStyle="slsDashed" MarkupFoldLineAlpha="200"/>
+          <ahaOutlineLevel4Color MarkupFoldLineColor="13421568" MarkupFoldLineStyle="slsDashed" MarkupFoldLineAlpha="200"/>
+          <ahaOutlineLevel5Color MarkupFoldLineColor="16738346" MarkupFoldLineStyle="slsDashed" MarkupFoldLineAlpha="200"/>
+          <ahaOutlineLevel6Color MarkupFoldLineColor="13566148" MarkupFoldLineStyle="slsDashed" MarkupFoldLineAlpha="200"/>
+          <ahaIfDefBlockTmpActive BackPriority="9000" ForePriority="9000" FramePriority="9000"/>
+          <ahaSpecialVisibleChars BackPriority="8100" ForePriority="8100" FramePriority="8100"/>
+          <ahaIdentComplWindowBorder Foreground="7039851"/>
+          <ahaIdentComplWindowHighlight Foreground="clLime"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </Globals>
+      <LangObjectPascal Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <Number Foreground="16764671"/>
+          <String Foreground="10878972"/>
+          <Symbol Foreground="16775291"/>
+          <Comment Foreground="8442623"/>
+          <Assembler Foreground="clLime"/>
+          <Directive Foreground="7995270"/>
+          <Reserved_word Foreground="16766582" Style="fsBold"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangObjectPascal>
+      <LangLazarus_Form_definition Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Key Style="fsBold"/>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangLazarus_Form_definition>
+      <LangXML_document Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Text Foreground="clBlack" Style="fsBold"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <Element_Name Foreground="clMaroon" Style="fsBold"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <CDATA_Section Foreground="clOlive" Style="fsItalic"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <Attribute_Name Foreground="clMaroon"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <Attribute_Value Foreground="clNavy" Style="fsBold"/>
+          <DOCTYPE_Section Foreground="clBlue" Style="fsItalic"/>
+          <Entity_Reference Foreground="clBlue" Style="fsBold"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <Processing_Instruction Foreground="clBlue"/>
+          <Namespace_Attribute_Name Foreground="clRed"/>
+          <Namespace_Attribute_Value Foreground="clRed" Style="fsBold"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangXML_document>
+      <LangHTML_document Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Asp Background="clYellow" Foreground="clBlack"/>
+          <Value Foreground="16744448"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <Identifier Style="fsBold"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <Unknown_word Foreground="clRed" Style="fsBold"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <Escape_ampersand Foreground="clLime" Style="fsBold"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangHTML_document>
+      <LangC__ Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <Assembler Foreground="clLime"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <Preprocessor Foreground="clGray"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangC__>
+      <LangPerl Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clFuchsia"/>
+          <Pragma Style="fsBold"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <Variable Style="fsBold"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangPerl>
+      <LangJava Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Space Foreground="clWindow"/>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Documentation Foreground="clGray"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangJava>
+      <LangUNIX_Shell_Script Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <Variable Foreground="clPurple"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangUNIX_Shell_Script>
+      <LangPython Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Float Foreground="clBlue"/>
+          <Octal Foreground="clBlue"/>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <Hexadecimal Foreground="clBlue"/>
+          <SyntaxError Foreground="clRed"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Documentation Foreground="clGray"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <Non_reserved_keyword Foreground="clNavy" Style="fsBold"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <System_functions_and_variables Style="fsBold"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangPython>
+      <LangPHP Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangPHP>
+      <LangSQL Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <Function Style="fsBold"/>
+          <Data_type Style="fsBold"/>
+          <Exception Style="fsItalic"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <Default_packages Style="fsBold"/>
+          <SQL_Plus_command Style="fsBold"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <Reserved_word__PL_SQL_ Style="fsBold"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangSQL>
+      <LangCascading_style_sheets Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangCascading_style_sheets>
+      <LangJavascript Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Number Foreground="clFuchsia"/>
+          <String Foreground="clYellow"/>
+          <Symbol Foreground="clAqua"/>
+          <Comment Foreground="clGray"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Reserved_word Foreground="clAqua" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangJavascript>
+      <LangDiff_File Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <Unknown_word Style="fsItalic"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <Diff_New_File Background="clGreen" Style="fsBold"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <Diff_Added_line Foreground="clGreen"/>
+          <Diff_Changed_Line Foreground="clPurple"/>
+          <Diff_Chunk_Marker Style="fsBold"/>
+          <Diff_Removed_Line Foreground="clRed"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <Diff_Original_File Background="clRed" Style="fsBold"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <Diff_Chunk_Line_Counts Foreground="clPurple" Style="fsBold"/>
+          <Diff_Chunk_New_Line_Count Foreground="clGreen" Style="fsBold"/>
+          <Diff_Chunk_Original_Line_Count Foreground="clRed" Style="fsBold"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangDiff_File>
+      <LangMS_DOS_batch_language Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Key Style="fsBold"/>
+          <Number Foreground="clFuchsia"/>
+          <Comment Foreground="clNavy" Style="fsItalic"/>
+          <Variable Foreground="clGreen"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangMS_DOS_batch_language>
+      <LangINI_file Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Number Foreground="clFuchsia"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Section Style="fsBold"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangINI_file>
+      <Langpo_language_files Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <Key Style="fsBold"/>
+          <Flags Foreground="clTeal"/>
+          <String Foreground="clFuchsia"/>
+          <Comment Foreground="clGreen" Style="fsItalic"/>
+          <Identifier Foreground="clGreen" Style="fsBold"/>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <Previous_value Foreground="clOlive" Style="fsItalic"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </Langpo_language_files>
+      <LangPike Version="12">
+        <SchemeCrazzzypeter_editor_theme>
+          <ahaTextBlock Background="clWhite" Foreground="clBlack" BackAlpha="0" FrameAlpha="0"/>
+          <ahaFoldedCode Background="clNone"/>
+          <ahaLineNumber Foreground="clNone"/>
+          <ahaRightMargin Foreground="clSilver"/>
+          <ahaModifiedLine FrameColor="59900"/>
+          <ahaCodeFoldingTree Foreground="clSilver" FrameColor="clNone"/>
+          <ahaGutterSeparator Background="clWhite" Foreground="clGray"/>
+          <ahaIdentComplWindow Background="3552822"/>
+          <ahaIfDefBlockInactive ForeAlpha="0"/>
+          <ahaOutlineLevel1Color Foreground="clRed" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel2Color Foreground="39159" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel3Color Foreground="2280512" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel4Color Foreground="13421568" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel5Color Foreground="16738346" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+          <ahaOutlineLevel6Color Foreground="13566148" MarkupFoldLineStyle="slsSolid" MarkupFoldLineAlpha="0"/>
+        </SchemeCrazzzypeter_editor_theme>
+      </LangPike>
+    </ColorSchemes>
+  </Lazarus>
+</CONFIG>
