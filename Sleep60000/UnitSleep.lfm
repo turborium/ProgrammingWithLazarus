@@ -1,0 +1,35 @@
+object FormSleep: TFormSleep
+  Left = 751
+  Height = 136
+  Top = 363
+  Width = 203
+  Caption = 'FormSleep'
+  ClientHeight = 136
+  ClientWidth = 203
+  LCLVersion = '2.0.10.0'
+  object ButtonSleep: TButton
+    AnchorSideLeft.Control = Owner
+    AnchorSideLeft.Side = asrCenter
+    AnchorSideTop.Control = Owner
+    AnchorSideTop.Side = asrCenter
+    Left = 47
+    Height = 25
+    Top = 56
+    Width = 109
+    Caption = 'Sleep(60000)'
+    OnClick = ButtonSleepClick
+    TabOrder = 0
+  end
+  object ButtonTest: TButton
+    AnchorSideLeft.Control = Owner
+    AnchorSideLeft.Side = asrCenter
+    AnchorSideTop.Control = ButtonSleep
+    AnchorSideTop.Side = asrBottom
+    Left = 47
+    Height = 25
+    Top = 81
+    Width = 109
+    Caption = 'Test'
+    TabOrder = 1
+  end
+end
